@@ -39,17 +39,6 @@ export default {
     cart: {
       handler(newCart) {
         // оформление заказа / обнуление
-        // this.sushi = this.sushi.map((item) => ({ ...item, isAdded: false, count: 1 }));
-        // this.rolls = this.rolls.map((item) => ({ ...item, isAdded: false, count: 1 }));
-        // this.sets = this.sets.map((item) => ({ ...item, isAdded: false, count: 1 }));
-        // this.snacks = this.snacks.map((item) => ({ ...item, isAdded: false, count: 1 }));
-        // this.drinks = this.drinks.map((item) => ({ ...item, isAdded: false, count: 1 }));
-        // this.slides = this.slides.map((item) => ({ ...item, isAdded: false }));
-        // this.favorites = this.favorites.map((item) => ({ ...item, isAdded: false }));
-        // this.categores = this.categores.map((item) => ({ ...item, isAdded: false }));
-        // this.slidesTovar = this.slidesTovar.map((item) => ({ ...item, isAdded: false }));
-        // this.products = this.products.map((item) => ({ ...item, isAdded: false }));
-        // this.product.isAdded ? this.product.isAdded = false : null;
       },
     },
     favoriteCount: {
