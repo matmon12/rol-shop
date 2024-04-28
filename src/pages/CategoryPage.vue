@@ -278,9 +278,9 @@ export default {
         const params = {
           page: 1,
           limit: this.limit,
-          filter_1: this.filters.filter_1 ? 1 : undefined,
-          filter_2: this.filters.filter_2 ? 1 : undefined,
-          filter_3: this.filters.filter_3 ? 1 : undefined,
+          filter_1: this.filters.filter_1 ? true : undefined,
+          filter_2: this.filters.filter_2 ? true : undefined,
+          filter_3: this.filters.filter_3 ? true : undefined,
           "ingridients.1": this.filters.ingredients_1 ? 1 : undefined,
           "ingridients.2": this.filters.ingredients_2 ? 1 : undefined,
           "ingridients.3": this.filters.ingredients_3 ? 1 : undefined,
