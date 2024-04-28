@@ -1,0 +1,43 @@
+<svg width="400.000000" height="201.000122" viewBox="0 0 400 201" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip130_55558">
+			<rect id="Frame" width="200.000000" height="200.000000" transform="translate(105.000000 1.000122)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip130_55559">
+			<rect id="Frame" width="200.000000" height="200.000000" transform="translate(105.000000 1.000122)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip130_55567">
+			<rect id="Иконка" width="56.000000" height="56.000000" transform="translate(171.000000 82.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="pop-up / illu" width="400.000000" height="200.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Frame" width="200.000000" height="200.000000" transform="translate(105.000000 1.000122)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip130_55559)">
+		<rect id="Frame" width="200.000000" height="200.000000" transform="translate(105.000000 1.000122)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip130_55558)">
+			<path id="Vector" d="M255.832 46.1544C263.738 63.1676 260.832 82.2871 269.707 110.318C278.582 138.349 299.234 175.13 291.168 183.232C283.102 191.171 246.473 170.431 220.496 159.575C194.52 148.719 179.352 147.909 156.762 139.808C134.172 131.868 104.164 116.637 103.031 100.272C101.902 83.9073 129.816 66.5702 152.406 49.395C174.996 32.382 192.258 15.8549 210.492 15.0447C228.727 14.0725 247.766 29.1414 255.832 46.1544Z" fill="#EDEDED" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+	<rect id="Frame 955" width="85.857910" height="85.857910" transform="translate(156.363281 60.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<path id="Polygon 2" d="M205.02 43.4463L271.414 146.535C274.84 151.859 271.02 158.867 264.688 158.867L131.902 158.867C125.57 158.867 121.746 151.859 125.176 146.535L191.57 43.4463C194.719 38.5552 201.871 38.5552 205.02 43.4463Z" fill="#F44837" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Ellipse 79" d="M232 126L246.34 140.339" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Ellipse 81" d="M246.34 126L232 140.339" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Polygon 1" d="M276.402 138.434L199.375 43.028C195.723 38.5013 188.609 39.2654 186 44.465L131 154.057C128.16 159.716 132.711 166.276 139.008 165.599L271.031 151.414C277.328 150.737 280.379 143.361 276.402 138.434ZM195.484 46.1688L272.512 141.575Q273.07 142.268 273.18 143.026Q273.289 143.784 272.949 144.607Q272.609 145.429 271.996 145.888Q271.383 146.347 270.496 146.443L138.473 160.628Q137.586 160.723 136.891 160.405Q136.195 160.086 135.688 159.354Q135.18 158.623 135.125 157.859Q135.07 157.095 135.469 156.299L190.469 46.7078Q190.836 45.9764 191.426 45.5671Q192.016 45.158 192.832 45.0706Q193.645 44.9832 194.309 45.2577Q194.973 45.5322 195.484 46.1688Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<rect id="Иконка" width="56.000000" height="56.000000" transform="translate(171.000000 82.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip130_55567)">
+		<path id="Vector (Stroke)" d="M183.133 85.2667C183.574 84.6792 184.266 84.3334 185 84.3334L213 84.3334C213.734 84.3334 214.426 84.6792 214.867 85.2667L221.867 94.6001C222.172 95.0039 222.336 95.4951 222.336 96L222.336 128.667C222.336 130.523 221.598 132.304 220.285 133.616C218.973 134.929 217.191 135.667 215.336 135.667L182.668 135.667C180.812 135.667 179.031 134.929 177.719 133.616C176.406 132.304 175.668 130.523 175.668 128.667L175.668 96C175.668 95.4951 175.832 95.0039 176.133 94.6001L183.133 85.2667ZM186.168 89L180.336 96.7778L180.336 128.667C180.336 129.286 180.582 129.879 181.02 130.317C181.457 130.754 182.051 131 182.668 131L215.336 131C215.953 131 216.547 130.754 216.984 130.317C217.422 129.879 217.668 129.286 217.668 128.667L217.668 96.7778L211.836 89L186.168 89Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector (Stroke)" d="M175.668 96.0001C175.668 94.7114 176.711 93.6667 178 93.6667L220 93.6667C221.289 93.6667 222.336 94.7114 222.336 96.0001C222.336 97.2887 221.289 98.3334 220 98.3334L178 98.3334C176.711 98.3334 175.668 97.2887 175.668 96.0001Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector (Stroke)" d="M189.664 103C190.953 103 192 104.045 192 105.333C192 107.19 192.734 108.97 194.051 110.283C195.363 111.596 197.141 112.333 199 112.333C200.855 112.333 202.637 111.596 203.949 110.283C205.262 108.97 206 107.19 206 105.333C206 104.045 207.043 103 208.332 103C209.621 103 210.664 104.045 210.664 105.333C210.664 108.427 209.438 111.395 207.25 113.583C205.059 115.771 202.094 117 199 117C195.906 117 192.938 115.771 190.75 113.583C188.562 111.395 187.332 108.427 187.332 105.333C187.332 104.045 188.375 103 189.664 103Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<path id="Vector 260" d="M85.0273 110.116L103.438 114.241L89.3867 128.473L85.0273 110.116Z" stroke="#1D1D1F" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round"/>
+	<rect id="Frame 954" width="23.902519" height="23.902519" transform="translate(274.230469 151.000000) rotate(17.604170)" fill="#FFFFFF" fill-opacity="0"/>
+	<path id="Vector 256" d="M285.668 154.629L285.062 156.535" stroke="#1D1D1F" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Vector 257" d="M293.477 169.696L291.57 169.091" stroke="#1D1D1F" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Vector 258" d="M272.508 163.043L270.602 162.438" stroke="#1D1D1F" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<path id="Vector 259" d="M279.016 175.599L278.41 177.505" stroke="#1D1D1F" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	<circle id="Ellipse 99" cx="291.000000" cy="50.000000" r="12.000000" stroke="#1D1D1F" stroke-opacity="1.000000" stroke-width="3.679625" stroke-linejoin="round"/>
+	<path id="Vector 251" d="M291 44L291 50.75L294 53" stroke="#1D1D1F" stroke-opacity="1.000000" stroke-width="3.679625" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
