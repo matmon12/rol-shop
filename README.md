@@ -11,9 +11,7 @@
 
 
 
-<a href="https://matmon12.github.io/rol-shop/">
-<h2>Demo</h2>
-</a>
+<a href="https://matmon12.github.io/rol-shop/">Demo</a>
 
 </div>
 
