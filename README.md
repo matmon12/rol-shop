@@ -1,5 +1,5 @@
 <div align="center" id="top">
-<img src="./src/img/Untitled (4).svg" alt="logo" style="width: 250px;">
+<img src="./src/img/Untitled (5).svg" alt="logo" style="width: 300px;">
 
 <a href="https://matmon12.github.io/rol-shop/">Demo</a>
 
