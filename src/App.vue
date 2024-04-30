@@ -317,5 +317,6 @@ export default {
   right: 0;
   z-index: -1;
   padding-top: 122px;
+  color: #be6b56;
 }
 </style>
