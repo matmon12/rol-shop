@@ -1,5 +1,5 @@
 # Roll Shop
-![](https://komarev.com/ghpvc/?username=matmon12)
+![](https://komarev.com/ghpvc/?username=matmon12&color=green)
 ## Project setup
 ```
 npm install
