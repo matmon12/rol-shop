@@ -1,4 +1,4 @@
-# vue-shop
+# Roll Shop
 
 ## Project setup
 ```
