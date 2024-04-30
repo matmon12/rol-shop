@@ -5,7 +5,7 @@
       <Header
         @open-drawer="openDrawer"
         @close-drawer="closeDrawer"
-        :notif-count="2"
+        :notif-count="5"
         :favorite-count="countFavorite"
         :cart-count="cart.length"
       />
