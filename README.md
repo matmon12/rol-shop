@@ -1,11 +1,11 @@
+<h1 align="center">Roll Shop</h1>
 <div align="center" id="top">
-<img src="./src/img/Untitled (5).svg" alt="logo" style="width: 300px;">
+<img src="./src/img/Untitled (6).svg" alt="logo" style="width: 300px;">
 
 <a href="https://matmon12.github.io/rol-shop/">Demo</a>
 
 </div>
 
-<h1 align="center">Roll Shop</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/matmon12/rol-shop?color=42d392">
