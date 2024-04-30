@@ -2,11 +2,9 @@
 <div align="center" id="top">
 <img src="./src/img/Untitled (6).svg" alt="logo" style="width: 300px;">
 
-<a href="https://matmon12.github.io/rol-shop/">Demo</a>
-
 </div>
 
-#
+
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/matmon12/rol-shop?color=42d392">
 
@@ -34,23 +32,34 @@
 
 ## :dart: About
 
-Describe your project
+Website selling sushi. The finished layout was taken as a basis. This project includes layout, queries and data processing with REST API, as well as other front-end tasks.
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Implementation of Yandex maps and working with them;\
+:heavy_check_mark: Implementation of dark and light themes;\
+:heavy_check_mark: Receiving and sending data from the server;\
+:heavy_check_mark: Form Validation;\
+:heavy_check_mark: Product filtering and sorting;\
+:heavy_check_mark: Feedback;\
+:heavy_check_mark: Adding products to favorites and cart;\
+:heavy_check_mark: Optimization;
 
 ## :rocket: Technologies
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Vue](https://vuejs.org/)
+- [Element Plus](https://element-plus.org/en-US/)
+- [Mokky.dev](https://mokky.dev/)
+- [Yandex Map](https://yandex.ru/maps-api/)
+- [Iconify](https://iconify.design/)
+- [AutoAnimate](https://auto-animate.formkit.com/)
+- [Turf](https://turfjs.org/)
+- [Axios](https://axios-http.com/)
+- [Swiper](https://swiperjs.com/)
+- [Swiper](https://swiperjs.com/)
+- [Vuex](https://vuex.vuejs.org/)
 
 ## :white_check_mark: Requirements
 
@@ -60,25 +69,26 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/vue-shop
+$ git clone https://github.com/matmon12/rol-shop
 
 # Access
-$ cd vue-shop
+$ cd rol-shop
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
+$ npm run serve
 
-# The server will initialize in the <http://localhost:3000>
+# Compiles and minifies for production
+$ npm run build
 ```
 
 ## :memo: License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/matmon12" target="_blank">Matmon</a>
 
 &#xa0;
 
