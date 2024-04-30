@@ -1,8 +1,8 @@
 <h1 align="center">Roll Shop</h1>
 <div align="center" id="top">
 <img src="./src/img/Untitled (6).svg" alt="logo" style="width: 300px;">
-
 </div>
+&#xa0;
 
 
 <p align="center">
@@ -57,7 +57,6 @@ The following tools were used in this project:
 - [AutoAnimate](https://auto-animate.formkit.com/)
 - [Turf](https://turfjs.org/)
 - [Axios](https://axios-http.com/)
-- [Swiper](https://swiperjs.com/)
 - [Swiper](https://swiperjs.com/)
 - [Vuex](https://vuex.vuejs.org/)
 
