@@ -1,5 +1,5 @@
 <div align="center" id="top">
-<img src="./src/img/Untitled (3).svg" alt="logo" style="width: 200px;">
+<img src="./src/img/Untitled (4).svg" alt="logo" style="width: 250px;">
 
 <a href="https://matmon12.github.io/rol-shop/">Demo</a>
 
@@ -8,26 +8,17 @@
 <h1 align="center">Roll Shop</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/matmon12/rol-shop?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/matmon12/rol-shop?color=42d392">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/matmon12/rol-shop?color=be6b56">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/matmon12/rol-shop?color=d36449">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/matmon12/rol-shop?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/matmon12/rol-shop?color=4cc71e">
 
   <img alt="License" src="https://img.shields.io/github/license/matmon12/rol-shop?color=56BEB8">
-
-  <img alt="Github forks" src="https://img.shields.io/github/forks/matmon12/rol-shop?color=56BEB8" />
 
   <img alt="Github stars" src="https://img.shields.io/github/stars/matmon12/rol-shop?color=56BEB8" />
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center">
-	🚧  Vue Shop 🚀 Under construction...  🚧
-</h4>
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -36,7 +27,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/matmon12" target="_blank">Author</a>
 </p>
 
 <br>
